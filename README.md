@@ -1,10 +1,12 @@
 
 
-### Olá, eu sou o Elton Alves  😎
+### Olá, eu sou o Elton Gonçalves Alves  😎
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-gon%C3%A7alves-alves-4152a395//)
 
 ![Elton GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonautomacao&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonautomacao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
