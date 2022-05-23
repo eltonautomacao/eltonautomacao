@@ -1,5 +1,3 @@
-
-
 ### Olá, eu sou o Elton Gonçalves Alves  😎
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-gon%C3%A7alves-alves-4152a395//)
